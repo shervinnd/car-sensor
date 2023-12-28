@@ -1,0 +1,7 @@
+user_one_name=input("enter your user name: ")
+user_one_code=input("enter your user code:")
+user_two_name=input("enter your user name2: ")
+user_two_code=input("enter your user code2:")
+n1=dict(name=user_one_name,code=user_one_code)
+n2=dict(name=user_two_name,code=user_two_code)
+print(n1,n2)
